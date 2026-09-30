@@ -22,6 +22,7 @@ def release_files():
         "LICENSE",
         "THIRD_PARTY_NOTICES.md",
         ".gitignore",
+        ".gitattributes",
         ".clang-format",
         "pyproject.toml",
         "lpc1768.ld",
