@@ -1,0 +1,22 @@
+# Local environments and generated build artifacts
+.venv/
+__pycache__/
+*.py[cod]
+build/
+backups/
+dist/
+*.log
+*.tmp
+*.bak
+# Personal settings, paths, icons and cached account data
+companion/actions.json
+companion/assets/
+companion/game-settings.json
+companion/desktop-settings.json
+companion/weather-settings.json
+companion/pubg-history.json
+.env
+.env.*
+# Downloaded compiler; firmware release package is intentionally tracked
+tools/arm/
+tools/*.zip

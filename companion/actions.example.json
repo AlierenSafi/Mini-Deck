@@ -1,0 +1,140 @@
+[
+  {
+    "name": "Previous track",
+    "label": "ONCEKI",
+    "type": "keys",
+    "keys": [
+      "PREVIOUS"
+    ]
+  },
+  {
+    "name": "Play / pause",
+    "label": "OYNAT",
+    "type": "keys",
+    "keys": [
+      "PLAY"
+    ]
+  },
+  {
+    "name": "Next track",
+    "label": "SONRAKI",
+    "type": "keys",
+    "keys": [
+      "NEXT"
+    ]
+  },
+  {
+    "name": "Volume down",
+    "label": "SES -",
+    "type": "keys",
+    "keys": [
+      "VOLUME_DOWN"
+    ]
+  },
+  {
+    "name": "Mute audio",
+    "label": "SESSIZ",
+    "type": "keys",
+    "keys": [
+      "MUTE"
+    ]
+  },
+  {
+    "name": "Volume up",
+    "label": "SES +",
+    "type": "keys",
+    "keys": [
+      "VOLUME_UP"
+    ]
+  },
+  {
+    "name": "Empty slot",
+    "label": "BOS SLOT",
+    "type": "empty"
+  },
+  {
+    "name": "Empty slot",
+    "label": "BOS SLOT",
+    "type": "empty"
+  },
+  {
+    "name": "Empty slot",
+    "label": "BOS SLOT",
+    "type": "empty"
+  },
+  {
+    "name": "Empty slot",
+    "label": "BOS SLOT",
+    "type": "empty"
+  },
+  {
+    "name": "Empty slot",
+    "label": "BOS SLOT",
+    "type": "empty"
+  },
+  {
+    "name": "Empty slot",
+    "label": "BOS SLOT",
+    "type": "empty"
+  },
+  {
+    "name": "Empty slot",
+    "label": "BOS SLOT",
+    "type": "empty"
+  },
+  {
+    "name": "Empty slot",
+    "label": "BOS SLOT",
+    "type": "empty"
+  },
+  {
+    "name": "Empty slot",
+    "label": "BOS SLOT",
+    "type": "empty"
+  },
+  {
+    "name": "Empty slot",
+    "label": "BOS SLOT",
+    "type": "empty"
+  },
+  {
+    "name": "Empty slot",
+    "label": "BOS SLOT",
+    "type": "empty"
+  },
+  {
+    "name": "Empty slot",
+    "label": "BOS SLOT",
+    "type": "empty"
+  },
+  {
+    "name": "Empty slot",
+    "label": "BOS SLOT",
+    "type": "empty"
+  },
+  {
+    "name": "Empty slot",
+    "label": "BOS SLOT",
+    "type": "empty"
+  },
+  {
+    "name": "Empty slot",
+    "label": "BOS SLOT",
+    "type": "empty"
+  },
+  {
+    "name": "Empty slot",
+    "label": "BOS SLOT",
+    "type": "empty"
+  },
+  {
+    "name": "Empty slot",
+    "label": "BOS SLOT",
+    "type": "empty"
+  },
+  {
+    "name": "Empty slot",
+    "label": "BOS SLOT",
+    "type": "empty"
+  }
+]

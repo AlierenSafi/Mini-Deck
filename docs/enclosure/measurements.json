@@ -1,0 +1,100 @@
+{
+  "units": "mm",
+  "status": "photo_estimated_fit_prototype",
+  "board": {
+    "size": [
+      95,
+      78
+    ],
+    "thickness": 1.6,
+    "confirmed_by_user": true
+  },
+  "photo_reference": {
+    "pcb_bounds_pixels": [
+      116,
+      83,
+      903,
+      730
+    ],
+    "method": "independent x/y scaling to user-confirmed PCB outline; no measured height; 90 degree portrait rotation"
+  },
+  "display": {
+    "opening": [
+      50,
+      70
+    ],
+    "centre_in_enclosure": [
+      49,
+      52.5
+    ],
+    "height_above_pcb_top_estimate": 13.2
+  },
+  "mounting_holes_native_from_top_left": [
+    [
+      3,
+      3.3
+    ],
+    [
+      91.7,
+      3.3
+    ],
+    [
+      3,
+      74.4
+    ],
+    [
+      91.7,
+      74.4
+    ]
+  ],
+  "ports": [
+    {
+      "name": "USB-COM",
+      "side": "left",
+      "centre_along_native_top": 48.8,
+      "opening_width": 14,
+      "opening_height": 12,
+      "bottom_above_floor": 5.5
+    },
+    {
+      "name": "Ethernet",
+      "side": "left",
+      "centre_along_native_top": 68.1,
+      "opening_width": 19,
+      "opening_height": 17,
+      "bottom_above_floor": 4
+    },
+    {
+      "name": "DC5V",
+      "side": "left",
+      "centre_along_native_top": 84,
+      "opening_width": 10.4,
+      "opening_height": 14,
+      "bottom_above_floor": 6
+    },
+    {
+      "name": "USB-DEVICE",
+      "side": "right",
+      "centre_along_native_top": 70.5,
+      "opening_width": 14,
+      "opening_height": 12,
+      "bottom_above_floor": 5.5
+    }
+  ],
+  "design": {
+    "enclosure_size": [
+      98,
+      106,
+      24.4
+    ],
+    "pcb_origin_portrait": [
+      13,
+      5.5,
+      6
+    ],
+    "wall": 2.4,
+    "screen_angle_degrees": 55,
+    "clearance_mounting_holes": 4.6,
+    "fit_status": "Requires physical fit check; port and height estimates are not metrology"
+  }
+}

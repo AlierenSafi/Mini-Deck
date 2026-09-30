@@ -1,0 +1,4 @@
+-r ../companion/requirements.txt
+unicorn>=2.1.4,<3
+pyelftools>=0.33,<1
+pillow>=12.3,<13

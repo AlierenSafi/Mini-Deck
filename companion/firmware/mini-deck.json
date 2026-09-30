@@ -1,0 +1,26 @@
+{
+  "version": 10,
+  "ui_theme": "alieren-mint-stone-1",
+  "source_sha256": "0271f371e492ac4de59f719911c8df89203ebd62a3a112a44d935f035fdfc5e0",
+  "image_bytes": 79036,
+  "sha256": "106debe5d1676d4a5cfdacf392b9b7d34b9d6d80c0ce71f4b6d0d76ae2923c91",
+  "crc32": "9E061427",
+  "vector_checksum": "0xeffcef7a",
+  "crp": "disabled (0xffffffff)",
+  "compiler": "arm-none-eabi-gcc.EXE (Arm GNU Toolchain 14.3.Rel1 (Build arm-14.174)) 14.3.1 20250623",
+  "flags": [
+    "-mcpu=cortex-m3",
+    "-mthumb",
+    "-Os",
+    "-g3",
+    "-std=c11",
+    "-Wall",
+    "-Wextra",
+    "-Werror",
+    "-ffreestanding",
+    "-fno-builtin",
+    "-ffunction-sections",
+    "-fdata-sections",
+    "-fstack-usage"
+  ]
+}
